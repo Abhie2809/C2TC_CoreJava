@@ -17,11 +17,11 @@ public class Client {
 		Shop shop = new Shop();
 		ShopOwner shopowner = new ShopOwner();
 		shop.setShopId(000002);
-		shop.setShopName("Croma");
+		shop.setShopName("Tata Motors");
 		shop.setLeaseStatus("9Months");
 		shop.setShopOwner(shopowner);
 		shopowner.setId(02);
-		shopowner.setName("Anil");
+		shopowner.setName("Usha");
 		shopowner.setAddress("Mumbai");
 		shopowner.setShop(shop);
 		
